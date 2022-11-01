@@ -15,5 +15,7 @@ Table of contents:
     - Summary - AUC
 - Threshold moving - Enhanced
 
-
 <img class="aligncenter" src="https://drive.google.com/uc?id=19Leb8LI1uOGPxOOY5FmFcSm19RMYLXyD" width="600" height="300">
+
+
+NB @ [Kaggle](https://www.kaggle.com/code/amrmuhammad/classification-metrics-demystified)
